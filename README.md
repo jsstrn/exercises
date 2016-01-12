@@ -4,5 +4,7 @@ A list of short programming exercises to do for practice. For most of these proj
 
 You are encouraged to write a blog post for each project detailing what you learnt and the challenges you faced.
 
-- Complete all of Jennifer Dewait's [180 projects](http://jenniferdewalt.com/index.html).
-- Complete exercises on [HackerRank](https://www.hackerrank.com/)
+- Karan's [mega project list](https://github.com/karan/Projects)
+- Jennifer Dewait's [180 projects](http://jenniferdewalt.com/index.html).
+- [HackerRank](https://www.hackerrank.com/)
+- [FreeCodeCamp](http://www.freecodecamp.com/)
